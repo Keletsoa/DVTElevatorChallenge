@@ -45,9 +45,7 @@
             }
 
             IsElevatorMoving = false;
-            {
-
-            }
+            
         }
     }
 
